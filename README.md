@@ -46,5 +46,8 @@ Main Python dependencies:
 - yfinance
 - matplotlib / seaborn
 
-All analysis can be reproduced by running the notebook. It is also possible to run it directly on [Google Colab]([https://colab.research.google.com/drive/SEU_ID_AQUI](https://colab.research.google.com/drive/1eSN3GKHeo02DpmyOiS0546M0oy1228q3?usp=drive_link)).
+All analysis can be reproduced by running the notebook. It is also possible to run it directly on Google Colab.
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/labrego-scp/the_sun_and_the_market/blob/main/filipe_labrego-test_quant_researcher.ipynb)
+
 
